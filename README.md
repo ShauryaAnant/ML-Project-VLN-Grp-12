@@ -34,23 +34,7 @@ my_vlm_project/
 
 *Note: The 15GB Matterport3D dataset, large precomputed features , paths are excluded from this repository due to size constraints.*
 
-## Installation & Environment SetupPS Microsoft.PowerShell.Core\FileSystem::\\wsl.localhost\Ubuntu\home\shaurya\habitat-lab> git push -u origin main -f
-Enumerating objects: 915, done.
-Counting objects: 100% (915/915), done.
-Delta compression using up to 16 threads
-Compressing objects: 100% (884/884), done.
-Writing objects: 100% (915/915), 856.03 MiB | 1.68 MiB/s, done.
-Total 915 (delta 136), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: Resolving deltas: 100% (136/136), done.
-remote: error: Trace: dec0287630372a6c42d4c792db1d80007964a8e39cb3a81d6baddba4db89b4f1
-remote: error: See https://gh.io/lfs for more information.
-remote: error: File my_vlm_project/task4_reduced_data/vlm_agent_reduced.pth is 586.48 MB; this exceeds GitHub's file size limit of 100.00 MB
-remote: error: File my_vlm_project/vlm_agent_best.pth is 586.48 MB; this exceeds GitHub's file size limit of 100.00 MB
-remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
-To https://github.com/ShauryaAnant/ML-Project-VLN-Grp-12.git
- ! [remote rejected] main -> main (pre-receive hook declined)
-error: failed to push some refs to 'https://github.com/ShauryaAnant/ML-Project-VLN-Grp-12.git'
-PS Microsoft.PowerShell.Core\FileSystem::\\wsl.localhost\Ubuntu\home\shaurya\habitat-lab> 
+## Installation & Environment Setup
 
 **1. Clone the repository:**
 ```bash
